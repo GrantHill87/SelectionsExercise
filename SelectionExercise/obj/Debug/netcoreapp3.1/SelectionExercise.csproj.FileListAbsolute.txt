@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\bin\Debug\netcoreapp3.1\SelectionExercise.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\bin\Debug\netcoreapp3.1\SelectionExercise.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\bin\Debug\netcoreapp3.1\SelectionExercise.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\bin\Debug\netcoreapp3.1\SelectionExercise.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\bin\Debug\netcoreapp3.1\SelectionExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\bin\Debug\netcoreapp3.1\SelectionExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\SelectionExercise\SelectionExercise\obj\Debug\netcoreapp3.1\SelectionExercise.genruntimeconfig.cache
